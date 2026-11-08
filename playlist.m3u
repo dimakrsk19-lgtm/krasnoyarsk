@@ -1,66 +1,68 @@
 #EXTM3U
-# ====================== КРАСНОЯРСКИЕ КАНАЛЫ ======================
+# ====================== КРАСНОЯРСК ======================
 #EXTINF:-1 group-title="Красноярск",Енисей HD
 https://hls-eniseytv.cdnvideo.ru/eniseytv/stream1/playlist.m3u8
 #EXTINF:-1 group-title="Красноярск",Енисей (альтернатива)
-https://rt-sib-krsk-htlive.cdn.ngenix.net/hls/CH_R01_OTT_SIB_KRSK_ENISEY/variant.m3u8
+https://tshift-1.telecoma.tv/enisei/index.m3u8
 #EXTINF:-1 group-title="Красноярск",ТВК Красноярск
 https://air.tvk6.ru/tvk24/playlist.m3u8
-#EXTINF:-1 group-title="Красноярск",ТВК (альтернатива)
-http://rt-sib-krsk-htlive.cdn.ngenix.net/hls/CH_R01_OTT_SIB_KRSK_TVK24/variant.m3u8
 #EXTINF:-1 group-title="Красноярск",Прима Красноярск
 https://tele2dvrnat01-02.cdnvideo.ru/stream/NAT_Prima/hls/index.m3u8
-#EXTINF:-1 group-title="Красноярск",8 канал Красноярск
-http://rt-sib-krsk-htlive.cdn.ngenix.net/hls/CH_R02_OTT_SIB_KRSK_8CHANNEL/variant.m3u8
 #EXTINF:-1 group-title="Красноярск",Сибирь 24 (Красноярск)
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/krasnoyarsk/sibir24-hd/index.m3u8
 
-# ====================== ФЕДЕРАЛЬНЫЕ КАНАЛЫ ======================
-#EXTINF:-1 tvg-id="ChannelOne.ru" group-title="Федеральные",Первый канал
+# ====================== ФЕДЕРАЛЬНЫЕ ======================
+#EXTINF:-1 group-title="Федеральные",Первый канал
 https://edge1.1internet.tv/dash-live2/streams/1tv-dvr/1tvdash.mpd
-#EXTINF:-1 tvg-id="Russia1.ru" group-title="Федеральные",Россия 1
+#EXTINF:-1 group-title="Федеральные",Россия 1
 https://live.smotrim.ru/vgtrk/0/russia1-hd/index.m3u8
-#EXTINF:-1 tvg-id="Russia24.ru" group-title="Федеральные",Россия 24
+#EXTINF:-1 group-title="Федеральные",Россия 24
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia24-hd/1080p.m3u8
-#EXTINF:-1 tvg-id="RussiaK.ru" group-title="Федеральные",Россия Культура
+#EXTINF:-1 group-title="Федеральные",Россия Культура
 https://live.smotrim.ru/vgtrk/0/kultura-hd/index.m3u8
-#EXTINF:-1 tvg-id="NTV.ru" group-title="Федеральные",НТВ
+#EXTINF:-1 group-title="Федеральные",НТВ
 http://ott-cdn.ucom.am/s17/index.m3u8
-#EXTINF:-1 tvg-id="5Kanal.ru" group-title="Федеральные",Пятый канал
+#EXTINF:-1 group-title="Федеральные",Пятый канал
 https://streaming.televizor-24-tochka.ru/live/8.m3u8
-#EXTINF:-1 tvg-id="Match.ru" group-title="Федеральные",Матч ТВ
+#EXTINF:-1 group-title="Федеральные",Матч ТВ
 https://streaming.televizor-24-tochka.ru/live/6.m3u8
-#EXTINF:-1 tvg-id="RENTV.ru" group-title="Федеральные",РЕН ТВ
+#EXTINF:-1 group-title="Федеральные",РЕН ТВ
 https://streaming.televizor-24-tochka.ru/live/14.m3u8
-#EXTINF:-1 tvg-id="STS.ru" group-title="Федеральные",СТС
+#EXTINF:-1 group-title="Федеральные",СТС
 https://streaming.televizor-24-tochka.ru/live/10.m3u8
-#EXTINF:-1 tvg-id="Domashniy.ru" group-title="Федеральные",Домашний
+#EXTINF:-1 group-title="Федеральные",Домашний
 https://streaming.televizor-24-tochka.ru/live/11.m3u8
-#EXTINF:-1 tvg-id="TV3.ru" group-title="Федеральные",ТВ-3
+#EXTINF:-1 group-title="Федеральные",ТВ-3
 https://streaming.televizor-24-tochka.ru/live/13.m3u8
-#EXTINF:-1 tvg-id="Pyatnitsa.ru" group-title="Федеральные",Пятница!
+#EXTINF:-1 group-title="Федеральные",Пятница!
 https://streaming.televizor-24-tochka.ru/live/15.m3u8
-#EXTINF:-1 tvg-id="TNT.ru" group-title="Федеральные",ТНТ
+#EXTINF:-1 group-title="Федеральные",ТНТ
 https://streaming.televizor-24-tochka.ru/live/9.m3u8
-#EXTINF:-1 tvg-id="TelekanalZvezda.ru" group-title="Федеральные",Звезда
+#EXTINF:-1 group-title="Федеральные",Звезда
 https://streaming.televizor-24-tochka.ru/live/16.m3u8
-#EXTINF:-1 tvg-id="Mir.ru" group-title="Федеральные",Мир
+#EXTINF:-1 group-title="Федеральные",Мир
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
-#EXTINF:-1 tvg-id="OTR.ru" group-title="Федеральные",ОТР
+#EXTINF:-1 group-title="Федеральные",ОТР
 https://streaming.televizor-24-tochka.ru/live/12.m3u8
-#EXTINF:-1 tvg-id="TVCentr.ru" group-title="Федеральные",ТВ Центр
+#EXTINF:-1 group-title="Федеральные",ТВ Центр
 http://ott-cdn.ucom.am/s54/index.m3u8
-#EXTINF:-1 tvg-id="Karusel.ru" group-title="Федеральные",Карусель
+#EXTINF:-1 group-title="Федеральные",Карусель
 https://streaming102.interskytech.com/live/232.m3u8
-#EXTINF:-1 tvg-id="MuzTV.ru" group-title="Федеральные",Муз-ТВ
+#EXTINF:-1 group-title="Федеральные",Муз-ТВ
 https://streaming.televizor-24-tochka.ru/live/17.m3u8
-#EXTINF:-1 tvg-id="TelekanalSpas.ru" group-title="Федеральные",Спас
+#EXTINF:-1 group-title="Федеральные",Спас
 https://spas.mediacdn.ru/cdn/spas/playlist.m3u8
-#EXTINF:-1 tvg-id="RBKTV.ru" group-title="Федеральные",РБК
+#EXTINF:-1 group-title="Федеральные",РБК
 https://streaming.televizor-24-tochka.ru/live/18.m3u8
+#EXTINF:-1 group-title="Федеральные",Че
+https://streaming.televizor-24-tochka.ru/live/19.m3u8
+#EXTINF:-1 group-title="Федеральные",Ю
+https://streaming.televizor-24-tochka.ru/live/20.m3u8
+#EXTINF:-1 group-title="Федеральные",2x2
+https://zabava-htlive.cdn.ngenix.net/hls/CH_2X2/variant.m3u8
 
-# ====================== ДОПОЛНИТЕЛЬНЫЕ / НОВОСТИ ======================
-#EXTINF:-1 group-title="Новости",RT Documentary (русский)
+# ====================== НОВОСТИ И ДОПОЛНИТЕЛЬНЫЕ ======================
+#EXTINF:-1 group-title="Новости",RT Documentary
 https://hls.rt.com/hls/rtdru.m3u8
 #EXTINF:-1 group-title="Новости",CGTN Русский
 https://news.cgtn.com/resource/live/russian/cgtn-r.m3u8
@@ -70,11 +72,9 @@ https://cdn-euronews.akamaized.net/live/eds/euronews-ru/25071/index.m3u8
 https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-04-srt.smil/playlist.m3u8
 #EXTINF:-1 group-title="Новости",Москва 24
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/moskva24-hd/index.m3u8
-
-# ====================== РАЗВЛЕКАТЕЛЬНЫЕ / ДЕТСКИЕ ======================
-#EXTINF:-1 group-title="Развлекательные",2x2
-https://zabava-htlive.cdn.ngenix.net/hls/CH_2X2/variant.m3u8
+#EXTINF:-1 group-title="Развлекательные",Europa Plus TV
+http://31.148.48.15/Europa_Plus_HD/index.m3u8
+#EXTINF:-1 group-title="Развлекательные",1HD Music
+http://176.118.197.101/1HD/index.m3u8
 #EXTINF:-1 group-title="Детские",Карусель (дубль)
 https://streaming102.interskytech.com/live/232.m3u8
-#EXTINF:-1 group-title="Музыка",Europa Plus TV
-http://31.148.48.15/Europa_Plus_HD/index.m3u8
