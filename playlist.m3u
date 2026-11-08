@@ -8,7 +8,7 @@ https://tshift-1.telecoma.tv/enisei/index.m3u8
 https://air.tvk6.ru/tvk24/playlist.m3u8
 #EXTINF:-1 group-title="Красноярск",Прима Красноярск
 https://tele2dvrnat01-02.cdnvideo.ru/stream/NAT_Prima/hls/index.m3u8
-#EXTINF:-1 group-title="Красноярск",Сибирь 24 (Красноярск)
+#EXTINF:-1 group-title="Красноярск",Сибирь 24
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/krasnoyarsk/sibir24-hd/index.m3u8
 
 # ====================== ФЕДЕРАЛЬНЫЕ ======================
@@ -60,8 +60,12 @@ https://streaming.televizor-24-tochka.ru/live/19.m3u8
 https://streaming.televizor-24-tochka.ru/live/20.m3u8
 #EXTINF:-1 group-title="Федеральные",2x2
 https://zabava-htlive.cdn.ngenix.net/hls/CH_2X2/variant.m3u8
+#EXTINF:-1 group-title="Федеральные",Солнце
+https://streaming.televizor-24-tochka.ru/live/21.m3u8
+#EXTINF:-1 group-title="Федеральные",Суббота!
+https://streaming.televizor-24-tochka.ru/live/22.m3u8
 
-# ====================== НОВОСТИ И ДОПОЛНИТЕЛЬНЫЕ ======================
+# ====================== НОВОСТИ ======================
 #EXTINF:-1 group-title="Новости",RT Documentary
 https://hls.rt.com/hls/rtdru.m3u8
 #EXTINF:-1 group-title="Новости",CGTN Русский
@@ -72,9 +76,45 @@ https://cdn-euronews.akamaized.net/live/eds/euronews-ru/25071/index.m3u8
 https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-04-srt.smil/playlist.m3u8
 #EXTINF:-1 group-title="Новости",Москва 24
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/moskva24-hd/index.m3u8
-#EXTINF:-1 group-title="Развлекательные",Europa Plus TV
-http://31.148.48.15/Europa_Plus_HD/index.m3u8
-#EXTINF:-1 group-title="Развлекательные",1HD Music
+#EXTINF:-1 group-title="Новости",360 Новости
+https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-03-srt.smil/playlist.m3u8
+
+# ====================== СПОРТ ======================
+#EXTINF:-1 group-title="Спорт",Матч! Арена
+https://streaming.televizor-24-tochka.ru/live/23.m3u8
+#EXTINF:-1 group-title="Спорт",Матч! Игра
+https://streaming.televizor-24-tochka.ru/live/24.m3u8
+#EXTINF:-1 group-title="Спорт",Матч! Страна
+https://streaming.televizor-24-tochka.ru/live/25.m3u8
+#EXTINF:-1 group-title="Спорт",КХЛ ТВ
+https://streaming.televizor-24-tochka.ru/live/26.m3u8
+
+# ====================== МУЗЫКА ======================
+#EXTINF:-1 group-title="Музыка",1HD Music
 http://176.118.197.101/1HD/index.m3u8
-#EXTINF:-1 group-title="Детские",Карусель (дубль)
+#EXTINF:-1 group-title="Музыка",Europa Plus TV
+http://31.148.48.15/Europa_Plus_HD/index.m3u8
+#EXTINF:-1 group-title="Музыка",RU.TV
+https://streaming.televizor-24-tochka.ru/live/27.m3u8
+#EXTINF:-1 group-title="Музыка",BRIDGE TV
+https://streaming.televizor-24-tochka.ru/live/28.m3u8
+
+# ====================== ДЕТСКИЕ ======================
+#EXTINF:-1 group-title="Детские",Карусель
 https://streaming102.interskytech.com/live/232.m3u8
+#EXTINF:-1 group-title="Детские",Мульт
+https://streaming.televizor-24-tochka.ru/live/29.m3u8
+#EXTINF:-1 group-title="Детские",Детский мир
+https://streaming.televizor-24-tochka.ru/live/30.m3u8
+
+# ====================== ПОЗНАВАТЕЛЬНЫЕ ======================
+#EXTINF:-1 group-title="Познавательные",Моя Планета
+https://streaming.televizor-24-tochka.ru/live/31.m3u8
+#EXTINF:-1 group-title="Познавательные",Наука
+https://streaming.televizor-24-tochka.ru/live/32.m3u8
+#EXTINF:-1 group-title="Познавательные",История
+https://streaming.televizor-24-tochka.ru/live/33.m3u8
+#EXTINF:-1 group-title="Познавательные",Охота и рыбалка
+https://streaming.televizor-24-tochka.ru/live/34.m3u8
+#EXTINF:-1 group-title="Познавательные",Живая природа
+https://streaming.televizor-24-tochka.ru/live/35.m3u8
